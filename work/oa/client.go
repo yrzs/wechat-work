@@ -42,7 +42,7 @@ func (comp *Client) GetCheckInOption(datetime int, userList []string) (*response
 
 	_, err := comp.HttpPostJson("cgi-bin/checkin/getcheckinoption", &object.HashMap{
 		"datetime":   fmt.Sprintf("%d", datetime),
-		"userIDlist": userList,
+		"useridlist": userList,
 	}, nil, nil, result)
 
 	return result, err
@@ -57,7 +57,7 @@ func (comp *Client) GetCheckinData(recordType int, startTime int, endTime int, u
 		"opencheckindatatype": fmt.Sprintf("%d", recordType),
 		"starttime":           fmt.Sprintf("%d", startTime),
 		"endtime":             fmt.Sprintf("%d", endTime),
-		"userIDlist":          userList,
+		"useridlist":          userList,
 	}, nil, nil, result)
 
 	return result, err
@@ -87,7 +87,7 @@ func (comp *Client) GetCheckInMonthData(startTime int, endTime int, userIDs []st
 	_, err := comp.HttpPostJson("cgi-bin/checkin/getcheckin_monthdata", &object.HashMap{
 		"starttime":  fmt.Sprintf("%d", startTime),
 		"endtime":    fmt.Sprintf("%d", endTime),
-		"userIDlist": userIDs,
+		"useridlist": userIDs,
 	}, nil, nil, result)
 
 	return result, err
@@ -101,7 +101,7 @@ func (comp *Client) GetCheckInScheduleList(startTime int, endTime int, userIDs [
 	_, err := comp.HttpPostJson("cgi-bin/checkin/getcheckinschedulist", &object.HashMap{
 		"starttime":  fmt.Sprintf("%d", startTime),
 		"endtime":    fmt.Sprintf("%d", endTime),
-		"userIDlist": userIDs,
+		"useridlist": userIDs,
 	}, nil, nil, result)
 
 	return result, err
