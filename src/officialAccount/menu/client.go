@@ -3,8 +3,8 @@ package menu
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/menu/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/menu/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/menu/request"
+	"github.com/yrzs/wechat-work/src/officialAccount/menu/response"
 )
 
 type Client struct {

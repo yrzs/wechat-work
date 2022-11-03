@@ -3,7 +3,7 @@ package dataCube
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/dataCube/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/dataCube/response"
 )
 
 type Client struct {

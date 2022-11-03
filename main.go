@@ -16,7 +16,7 @@ func GetWorkConfig() *work.UserConfig {
 			File:  "./wechat.log",
 		},
 		OAuth: work.OAuth{
-			Callback: "Callback",
+			Callback: "http://www.baidu.com",
 			Scopes:   []string{},
 		},
 		Cache: kernel.NewRedisClient(&kernel.RedisOptions{

@@ -3,8 +3,8 @@ package bill
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel/power"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/bill/response"
-	payment "github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/bill/response"
+	payment "github.com/yrzs/wechat-work/src/payment/kernel"
 )
 
 type Client struct {

@@ -8,8 +8,8 @@ import (
 	"github.com/yrzs/wechat-work/kernel/messages"
 	"github.com/yrzs/wechat-work/kernel/power"
 	response2 "github.com/yrzs/wechat-work/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/broadcasting/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/broadcasting/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/broadcasting/request"
+	"github.com/yrzs/wechat-work/src/officialAccount/broadcasting/response"
 )
 
 const BROADCASTING_PREVIEW_BY_OPENID string = "touser"

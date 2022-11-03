@@ -2,7 +2,7 @@ package response
 
 import (
 	"github.com/yrzs/wechat-work/kernel/response"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/poi/response"
+	response2 "github.com/yrzs/wechat-work/src/officialAccount/poi/response"
 )
 
 type Inner struct {

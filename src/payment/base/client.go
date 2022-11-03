@@ -3,7 +3,7 @@ package base
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	response2 "github.com/yrzs/wechat-work/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/kernel"
 )
 
 type Client struct {

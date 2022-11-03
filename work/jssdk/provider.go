@@ -1,7 +1,7 @@
 package jssdk
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/jssdk"
+	"github.com/yrzs/wechat-work/src/basicService/jssdk"
 	"github.com/yrzs/wechat-work/kernel"
 )
 

@@ -3,8 +3,8 @@ package subscribeMessage
 import (
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/subscribeMessage/request"
-	response3 "github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/subscribeMessage/response"
+	"github.com/yrzs/wechat-work/src/basicService/subscribeMessage/request"
+	response3 "github.com/yrzs/wechat-work/src/basicService/subscribeMessage/response"
 	"github.com/yrzs/wechat-work/kernel"
 	response2 "github.com/yrzs/wechat-work/kernel/response"
 )

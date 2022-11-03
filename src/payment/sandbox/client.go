@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	kernel2 "github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/kernel"
 	"time"
 )
 

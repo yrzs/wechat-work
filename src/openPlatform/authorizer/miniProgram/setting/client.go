@@ -2,8 +2,8 @@ package setting
 
 import (
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/setting/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/setting/response"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/setting/request"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/setting/response"
 )
 
 type Client struct {

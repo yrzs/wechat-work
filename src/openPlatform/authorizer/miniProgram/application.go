@@ -3,15 +3,15 @@ package miniProgram
 import (
 	"github.com/yrzs/wechat-work/kernel"
 	"github.com/yrzs/wechat-work/kernel/providers"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/miniProgram"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/material"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/account"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/auth"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/code"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/domain"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/privacy"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/setting"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/miniProgram/tester"
+	"github.com/yrzs/wechat-work/src/miniProgram"
+	"github.com/yrzs/wechat-work/src/officialAccount/material"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/account"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/auth"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/code"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/domain"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/privacy"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/setting"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/miniProgram/tester"
 )
 
 type Application struct {

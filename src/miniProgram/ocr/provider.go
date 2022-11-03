@@ -1,0 +1,16 @@
+package ocr
+
+import (
+	"github.com/yrzs/wechat-work/kernel"
+)
+
+func RegisterProvider(app kernel.ApplicationInterface) (*Client, error) {
+	baseClient, err := kernel.NewBaseClient(&app, nil)
+	if err != nil {
+		return nil, err
+	}
+	return &Client{
+		baseClient,
+	}, nil
+
+}

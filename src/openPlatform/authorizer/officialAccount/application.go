@@ -3,9 +3,9 @@ package officialAccount
 import (
 	"github.com/yrzs/wechat-work/kernel"
 	"github.com/yrzs/wechat-work/kernel/providers"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/officialAccount/account"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/officialAccount/miniProgram"
+	"github.com/yrzs/wechat-work/src/officialAccount"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/officialAccount/account"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/officialAccount/miniProgram"
 )
 
 type Application struct {

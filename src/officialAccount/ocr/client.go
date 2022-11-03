@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/ocr/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/ocr/response"
 )
 
 type Client struct {

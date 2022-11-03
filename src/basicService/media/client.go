@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/http/contract"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/media/response"
+	"github.com/yrzs/wechat-work/src/basicService/media/response"
 	"github.com/yrzs/wechat-work/kernel"
 	"os"
 )

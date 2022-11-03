@@ -2,9 +2,9 @@ package promotion
 
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	payment "github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/promotion/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/promotion/response"
+	payment "github.com/yrzs/wechat-work/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/promotion/request"
+	"github.com/yrzs/wechat-work/src/payment/promotion/response"
 )
 
 type Client struct {

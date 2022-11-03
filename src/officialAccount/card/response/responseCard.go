@@ -2,7 +2,7 @@ package response
 
 import (
 	"github.com/yrzs/wechat-work/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/card/request"
+	"github.com/yrzs/wechat-work/src/officialAccount/card/request"
 )
 
 type ResponseCardCreate struct {

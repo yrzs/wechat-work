@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel/power"
-	payment "github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/transfer/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/transfer/response"
+	payment "github.com/yrzs/wechat-work/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/transfer/request"
+	"github.com/yrzs/wechat-work/src/payment/transfer/response"
 )
 
 type BatchClient struct {

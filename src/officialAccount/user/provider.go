@@ -2,7 +2,7 @@ package user
 
 import (
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/user/tag"
+	"github.com/yrzs/wechat-work/src/officialAccount/user/tag"
 )
 
 func RegisterProvider(app kernel.ApplicationInterface) (*Client, *tag.Client, error) {

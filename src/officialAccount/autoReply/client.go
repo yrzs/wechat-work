@@ -2,7 +2,7 @@ package autoReply
 
 import (
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/autoReply/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/autoReply/response"
 )
 
 type Client struct {

@@ -8,9 +8,9 @@ import (
 	response2 "github.com/ArtisanCloud/PowerLibs/v2/http/response"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel/support"
-	base2 "github.com/ArtisanCloud/PowerWeChat/v2/src/payment/base"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/notify/request"
+	base2 "github.com/yrzs/wechat-work/src/payment/base"
+	"github.com/yrzs/wechat-work/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/notify/request"
 	"io/ioutil"
 	"net/http"
 )

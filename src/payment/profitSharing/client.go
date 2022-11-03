@@ -3,9 +3,9 @@ package profitSharing
 import (
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	payment "github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/profitSharing/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/profitSharing/response"
+	payment "github.com/yrzs/wechat-work/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/profitSharing/request"
+	"github.com/yrzs/wechat-work/src/payment/profitSharing/response"
 )
 
 type Client struct {

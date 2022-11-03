@@ -2,11 +2,11 @@ package basicService
 
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/contentSecurity"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/jssdk"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/media"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/qrCode"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/url"
+	"github.com/yrzs/wechat-work/src/basicService/contentSecurity"
+	"github.com/yrzs/wechat-work/src/basicService/jssdk"
+	"github.com/yrzs/wechat-work/src/basicService/media"
+	"github.com/yrzs/wechat-work/src/basicService/qrCode"
+	"github.com/yrzs/wechat-work/src/basicService/url"
 	"github.com/yrzs/wechat-work/kernel"
 	"github.com/yrzs/wechat-work/kernel/providers"
 )

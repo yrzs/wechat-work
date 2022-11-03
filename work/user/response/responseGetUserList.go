@@ -1,7 +1,7 @@
 package response
 
 import (
-	"github.com/ArtisanCloud/PowerSocialite/v2/src/models"
+	"github.com/yrzs/PowerSocialite/src/models"
 	"github.com/yrzs/wechat-work/kernel/response"
 )
 

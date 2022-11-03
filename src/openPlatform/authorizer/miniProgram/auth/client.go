@@ -3,7 +3,7 @@ package auth
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/auth"
+	"github.com/yrzs/wechat-work/src/openPlatform/auth"
 	"github.com/yrzs/wechat-work/work/miniProgram/response"
 )
 

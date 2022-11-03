@@ -2,8 +2,8 @@ package oauth
 
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	"github.com/ArtisanCloud/PowerSocialite/v2/src"
-	"github.com/ArtisanCloud/PowerSocialite/v2/src/providers"
+	"github.com/yrzs/PowerSocialite/src"
+	"github.com/yrzs/PowerSocialite/src/providers"
 	"github.com/yrzs/wechat-work/kernel"
 	"strings"
 )

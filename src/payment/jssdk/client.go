@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/jssdk"
+	"github.com/yrzs/wechat-work/src/basicService/jssdk"
 	kernel2 "github.com/yrzs/wechat-work/kernel"
 	"net/http"
 	"net/url"

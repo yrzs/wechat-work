@@ -4,7 +4,7 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel"
 	response2 "github.com/yrzs/wechat-work/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/base/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/base/response"
 )
 
 type Client struct {

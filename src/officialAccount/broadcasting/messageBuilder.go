@@ -5,7 +5,7 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel/contract"
 	"github.com/yrzs/wechat-work/kernel/power"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/broadcasting/request"
+	"github.com/yrzs/wechat-work/src/officialAccount/broadcasting/request"
 )
 
 type MessageBuilder struct {

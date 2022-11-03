@@ -5,8 +5,8 @@ import (
 	"github.com/yrzs/wechat-work/kernel"
 	"github.com/yrzs/wechat-work/kernel/power"
 	response2 "github.com/yrzs/wechat-work/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/templateMessage/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/templateMessage/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/templateMessage/request"
+	"github.com/yrzs/wechat-work/src/officialAccount/templateMessage/response"
 )
 
 const API_TEMPLATE_MESSAGE_SEND string = "cgi-bin/message/template/send"

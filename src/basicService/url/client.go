@@ -2,7 +2,7 @@ package url
 
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/url/response"
+	"github.com/yrzs/wechat-work/src/basicService/url/response"
 	"github.com/yrzs/wechat-work/kernel"
 	"math"
 )

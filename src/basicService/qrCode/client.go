@@ -3,8 +3,8 @@ package qrCode
 import (
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/qrCode/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/basicService/qrCode/response"
+	"github.com/yrzs/wechat-work/src/basicService/qrCode/request"
+	"github.com/yrzs/wechat-work/src/basicService/qrCode/response"
 	"github.com/yrzs/wechat-work/kernel"
 	"math"
 	"net/url"

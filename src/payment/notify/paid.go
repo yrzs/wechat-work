@@ -4,8 +4,8 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v2/http/response"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel/models"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/notify/request"
+	"github.com/yrzs/wechat-work/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/notify/request"
 	"net/http"
 )
 

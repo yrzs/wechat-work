@@ -4,7 +4,7 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel"
 	"github.com/yrzs/wechat-work/kernel/providers"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/miniProgram"
+	"github.com/yrzs/wechat-work/src/miniProgram"
 	"github.com/yrzs/wechat-work/work/auth"
 	auth2 "github.com/yrzs/wechat-work/work/miniProgram/auth"
 )

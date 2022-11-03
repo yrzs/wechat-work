@@ -6,8 +6,8 @@ import (
 	"github.com/yrzs/wechat-work/kernel"
 	"github.com/yrzs/wechat-work/kernel/contract"
 	response2 "github.com/yrzs/wechat-work/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/customerService/request"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/officialAccount/customerService/response"
+	"github.com/yrzs/wechat-work/src/officialAccount/customerService/request"
+	"github.com/yrzs/wechat-work/src/officialAccount/customerService/response"
 )
 
 type Client struct {

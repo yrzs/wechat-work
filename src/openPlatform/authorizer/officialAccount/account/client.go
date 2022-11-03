@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
 	"github.com/yrzs/wechat-work/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/aggregate/account"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/authorizer/officialAccount/account/response"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/aggregate/account"
+	"github.com/yrzs/wechat-work/src/openPlatform/authorizer/officialAccount/account/response"
 )
 
 type Client struct {

@@ -2,8 +2,8 @@ package reverse
 
 import (
 	"github.com/ArtisanCloud/PowerLibs/v2/object"
-	payment "github.com/ArtisanCloud/PowerWeChat/v2/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/payment/reverse/response"
+	payment "github.com/yrzs/wechat-work/src/payment/kernel"
+	"github.com/yrzs/wechat-work/src/payment/reverse/response"
 )
 
 type Client struct {

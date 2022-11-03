@@ -3,8 +3,8 @@ package handlers
 import (
 	"github.com/yrzs/wechat-work/kernel"
 	"github.com/yrzs/wechat-work/kernel/contract"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/auth"
-	"github.com/ArtisanCloud/PowerWeChat/v2/src/openPlatform/response"
+	"github.com/yrzs/wechat-work/src/openPlatform/auth"
+	"github.com/yrzs/wechat-work/src/openPlatform/response"
 	"net/http"
 )
 
